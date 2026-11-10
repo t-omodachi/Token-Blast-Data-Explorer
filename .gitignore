@@ -1,0 +1,15 @@
+# Packages installed by Start.bat
+.packages/
+.venv/
+__pycache__/
+*.pyc
+
+# Keep field data out of the repo (participant data)
+*.csv
+*.xlsx
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
